@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Tech | blog is unknown]]></title>
+  <link href="http://unknown-Ex.github.io//github/blog/categories/tech/atom.xml" rel="self"/>
+  <link href="http://unknown-Ex.github.io//github/"/>
+  <updated>2013-12-08T02:50:32+09:00</updated>
+  <id>http://unknown-Ex.github.io//github/</id>
+  <author>
+    <name><![CDATA[unknown]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Octopressでgithub Pagesにブログを設置しました]]></title>
+    <link href="http://unknown-Ex.github.io//github/blog/2013/12/07/octpressdegithub-pagesniburoguwoshe-zhi-simasita/"/>
+    <updated>2013-12-07T23:11:30+09:00</updated>
+    <id>http://unknown-Ex.github.io//github/blog/2013/12/07/octpressdegithub-pagesniburoguwoshe-zhi-simasita</id>
+    <content type="html"><![CDATA[<p>タイトルの通り．
+markdownで静的ページを生成するOctopressをgithub pagesに設置しました．</p>
+
+<p>markdownの書き方が未だによくわかっていない．
+気分的にはtexよりは楽に書ける感じでいいのかな．よくわかっていない．</p>
+
+<p>公式サイト</p>
+
+<p><a href="http://octopress.org/" title="Octopress">Octopress</a></p>
+
+<p><a href="http://pages.github.com/" title="GitHub Pages">GitHub Pages</a></p>
+
+<p>Octopressの使い方やGithub pagesでの設置の仕方もすべてOctopressのページに詳しく載っているのでそこを参考にするのがいいかと．</p>
+
+<p><a href="http://octopress.org/docs/" title="Octopress/docs">Octopress/docs</a></p>
+
+<p>rakeでinstallする際にrakeのversionが必要なversionと現在入っているversionが違ったのでそこでエラーが出て少し困った．</p>
+
+<p>rakeにはversionを指定する方法があるのでそれを使って0.9.2.2で実行するとできました．</p>
+
+<p>記事を書いたり生成するのにもrakeを使うのでmakefireやshやaliasを設定しておくと次から使うときに楽になります．</p>
+
+<p><a href="http://kozy4324.github.io/blog/2013/03/02/exec-rake-with-version/" title="バージョンを指定してRakeを実行する - /var/log/kozy4324">参考</a></p>
+
+<p>あと記事を作成するときに使う[]がzshだと使えないためnoglobコマンドを使うといいでしょう．それもrakeと一緒にmakefireなどにしておけば次から楽．</p>
+
+<p><strong>なぜOctopressなのか</strong></p>
+
+<p>なぜいまさらOctopressを使って静的なページをつくろうと思ったのか．</p>
+
+<p>他のブログサービスをいくつか使ってて不便に思えたのがバックアップや移行の問題．
+Octopressなら記事は全部markdownで残っているのでそのファイルがなくならない限りどうにでもなる．</p>
+
+<p>いつまで続けるかわからないしその前にそんなに続くとも思ってないけど物は試し．</p>
+
+<p>長文書くの疲れました…</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[テスト記事]]></title>
+    <link href="http://unknown-Ex.github.io//github/blog/2013/12/07/tesutoji-shi/"/>
+    <updated>2013-12-07T21:53:36+09:00</updated>
+    <id>http://unknown-Ex.github.io//github/blog/2013/12/07/tesutoji-shi</id>
+    <content type="html"><![CDATA[<p>テスト記事を書いてみる．
+書いた．</p>
+]]></content>
+  </entry>
+  
+</feed>
