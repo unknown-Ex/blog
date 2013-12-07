@@ -1,25 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://unknown-Ex.github.io//github/blog/2013/12/07/tesutoji-shi/</loc>
+        <loc>http://unknown-ex.github.io/blog//blog/2013/12/07/tesutoji-shi/</loc>
         <lastmod>2013-12-07T22:31:06+09:00</lastmod>
     </url>
     <url>
-        <loc>
-            http://unknown-Ex.github.io//github/blog/2013/12/07/octpressdegithub-pagesniburoguwoshe-zhi-simasita/
-        </loc>
-        <lastmod>2013-12-08T01:51:46+09:00</lastmod>
+        <loc>http://unknown-ex.github.io/blog//blog/archives/</loc>
+        <lastmod>2013-12-07T22:31:06+09:00</lastmod>
     </url>
     <url>
-        <loc>http://unknown-Ex.github.io//github/blog/archives/</loc>
-        <lastmod>2013-12-08T01:51:46+09:00</lastmod>
+        <loc>http://unknown-ex.github.io/blog//</loc>
+        <lastmod>2013-12-07T22:31:06+09:00</lastmod>
     </url>
     <url>
-        <loc>http://unknown-Ex.github.io//github/</loc>
-        <lastmod>2013-12-08T01:51:46+09:00</lastmod>
-    </url>
-    <url>
-        <loc>http://unknown-Ex.github.io//github/robots.txt</loc>
+        <loc>http://unknown-ex.github.io/blog//robots.txt</loc>
         <lastmod>2013-12-07T21:48:08+09:00</lastmod>
     </url>
 </urlset>
