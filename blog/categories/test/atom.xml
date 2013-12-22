@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Tech | あんのーんぶろぐ]]></title>
-  <link href="http://unknown-ex.github.io/blog//blog/categories/tech/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Test | あんのーんぶろぐ]]></title>
+  <link href="http://unknown-ex.github.io/blog//blog/categories/test/atom.xml" rel="self"/>
   <link href="http://unknown-ex.github.io/blog//"/>
-  <updated>2013-12-08T03:36:22+09:00</updated>
+  <updated>2013-12-22T14:32:26+09:00</updated>
   <id>http://unknown-ex.github.io/blog//</id>
   <author>
     <name><![CDATA[unknown_Ex]]></name>
