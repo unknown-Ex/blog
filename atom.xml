@@ -4,7 +4,7 @@
   <title><![CDATA[あんのーんぶろぐ]]></title>
   <link href="http://unknown-ex.github.io/blog//atom.xml" rel="self"/>
   <link href="http://unknown-ex.github.io/blog//"/>
-  <updated>2014-01-25T01:25:21+09:00</updated>
+  <updated>2014-01-26T00:02:21+09:00</updated>
   <id>http://unknown-ex.github.io/blog//</id>
   <author>
     <name><![CDATA[unknown_Ex]]></name>
@@ -12,6 +12,119 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[クッキーの話]]></title>
+    <link href="http://unknown-ex.github.io/blog//blog/2014/01/25/cookie/"/>
+    <updated>2014-01-25T23:08:49+09:00</updated>
+    <id>http://unknown-ex.github.io/blog//blog/2014/01/25/cookie</id>
+    <content type="html"><![CDATA[<p>クッキークリッカーの話ではありません．</p>
+
+<p>最近姉がDVDを借りてくるのでこたつに入って見てます．修論を書きながら．</p>
+
+<p>そのとき「何かお菓子が食べたい」という話から姉のーんがクッキーを焼くことに．ちなみに初挑戦．</p>
+
+<!-- more -->
+
+
+<p>適当にある材料でできそうなココアクッキーをcookpadから引っ張ってくる．</p>
+
+<p>特にミスなく作れてると思いきや生地がまとまらないとか．分量は間違ってないのに．</p>
+
+<p>ミス的なミスは小麦粉を入れるときにちょっとずつ入れる方がいいんだけど一気に入れたところ．姉のーんはこれどう処分しようかと．</p>
+
+<p>粉っぽいけどこねれば生地になりそうだと思ったのでビニール袋に入れてこねてどうにか形になりました．</p>
+
+<p>姉のーんが作ってたけど結局後半は私主導で作ってた．</p>
+
+<iframe src="http://unknown-ex.github.io/blog///instagram.com/p/jd7v6Shj1e/embed/" width="612" height="710" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+
+
+<p>ちょっと焼き時間長すぎた気もする．</p>
+
+<p>味は微妙でした．自分で作ってなければおいしいって言うくらいの味．ココアがココアパウダーじゃなくて普通の飲むココアしかなかったのでそこが微妙だったかも．</p>
+
+<p>姉のーんが最近料理し始めたので頑張って欲しいって話</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[めっちゃやばかった話]]></title>
+    <link href="http://unknown-ex.github.io/blog//blog/2014/01/25/yabakatta/"/>
+    <updated>2014-01-25T23:08:08+09:00</updated>
+    <id>http://unknown-ex.github.io/blog//blog/2014/01/25/yabakatta</id>
+    <content type="html"><![CDATA[<p>昨日の話．</p>
+
+<p>修論も後半戦になって最後に1つ実験をしなくちゃいけなくてそのためにプログラムの修正をしてたらプログラムが全部吹き飛んで死ぬかと思った．</p>
+
+<!-- more -->
+
+
+<p>ちょっとプログラム修正してたら変な文字が入ってしまったみたいでgrepして確かめようとterminalを叩いてたら</p>
+
+<p>./<em> と打つところを >?</em> と打ってしまった</p>
+
+<p>知ってる人は知ってると思うけどこれだと2文字以上のファイル名のファイルすべてに上書きしてしまうので簡単に死にます．</p>
+
+<p>参考</p>
+
+<p><a href="http://twitpic.com/dt6jiw" title="Share photos on twitter with Twitpic"><img src="http://twitpic.com/show/thumb/dt6jiw.png" width="150" height="150" alt="Share photos on twitter with Twitpic"></a></p>
+
+<p>ファイルが全部0バイトに．</p>
+
+<p>ちなみにノーバックアップ　ノーgit　ノークラウドでした．</p>
+
+<p>やばかったのでtwitterで騒いでました．</p>
+
+<script async src="http://unknown-ex.github.io/blog///platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+
+<blockquote class="twitter-tweet" lang="ja"><p>＼(^o^)／</p>&mdash; あんのーん (@unknown_Ex) <a href="https://twitter.com/unknown_Ex/statuses/426593633832148992">2014, 1月 24</a></blockquote>
+
+
+
+
+<blockquote class="twitter-tweet" lang="ja"><p>失敗した失敗した失敗した失敗した失敗した失敗した失敗した失敗した失敗した失敗した失敗した失敗した失敗した失敗した失敗した失敗した失敗した失敗した失敗した失敗した失敗した失敗した失敗した失敗した失敗した失敗した失敗した失敗した失敗した失敗した</p>&mdash; あんのーん (@unknown_Ex) <a href="https://twitter.com/unknown_Ex/statuses/426593688056119296">2014, 1月 24</a></blockquote>
+
+
+
+
+<blockquote class="twitter-tweet" lang="ja"><p>_(◜◡｀」∠)_</p>&mdash; あんのーん (@unknown_Ex) <a href="https://twitter.com/unknown_Ex/statuses/426594338261303296">2014, 1月 24</a></blockquote>
+
+
+
+
+<blockquote class="twitter-tweet" lang="ja"><p>今日でこの実験終わる予定だったんだ…</p>&mdash; あんのーん (@unknown_Ex) <a href="https://twitter.com/unknown_Ex/statuses/426595414192562177">2014, 1月 24</a></blockquote>
+
+
+
+
+<blockquote class="twitter-tweet" lang="ja"><p>はぁ〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜</p>&mdash; あんのーん (@unknown_Ex) <a href="https://twitter.com/unknown_Ex/statuses/426595810416279552">2014, 1月 24</a></blockquote>
+
+
+<p>騒いでたらtwitterで「ソースが消えただけならclassファイルから逆コンパイルできるのでは？」というアドバイスをもらった．</p>
+
+<p>コンパイルはプログラムをPCが使えるような形式にすることで逆コンパイルとはPCが使えるような形式に直したファイルを元のソースに戻すこと．今回はjavaファイルなので比較的それがし易いはず．</p>
+
+<p>逆コンパイルのことは知ってたけど完璧に戻るわけはないやろ〜と思ってたのでいままで使うことはなかったけど今回初めて使うことに．</p>
+
+<p>結果としてはほぼ完璧に復旧できました．というかすごすぎ．</p>
+
+<p>もともとコメントとかはほとんどなかったのでほぼ完璧に．修正したのはジェネリクスの仮型引数<E>みたいなやつくらい．あとはインデントが多少ずれたとか．</p>
+
+<p>めっちゃ命拾いしました．これがscriptとかなら死んでた．笑えない．</p>
+
+<p>ちなみにそのソースを使った実験も今日終わったのであとは結果を論文にまとめるだけです．</p>
+
+<p>よくdisられるjavaですがこうやって命拾いをするとjavaでよかった感．いやVCSとかバックアップとかちゃんとやれって話だけど．</p>
+
+<p>ちなみに使ったのはJD-GUIってやつです．</p>
+
+<p>次から気をつけますって話だ．</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[最近の睡眠環境の話]]></title>
