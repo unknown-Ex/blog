@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[あんのーんぶろぐ]]></title>
-  <link href="http://unknown-ex.github.io/blog//atom.xml" rel="self"/>
-  <link href="http://unknown-ex.github.io/blog//"/>
-  <updated>2014-07-13T19:23:06+09:00</updated>
-  <id>http://unknown-ex.github.io/blog//</id>
+  <link href="http://unknown-Ex.github.io/blog/atom.xml" rel="self"/>
+  <link href="http://unknown-Ex.github.io/blog/"/>
+  <updated>2014-07-13T20:05:53+09:00</updated>
+  <id>http://unknown-Ex.github.io/blog/</id>
   <author>
     <name><![CDATA[unknown_Ex]]></name>
     
@@ -14,10 +14,19 @@
 
   
   <entry>
+    <title type="html"><![CDATA[いまさらブログを復旧したアレ]]></title>
+    <link href="http://unknown-Ex.github.io/blog/blog/2014/07/13/imasara/"/>
+    <updated>2014-07-13T19:51:51+09:00</updated>
+    <id>http://unknown-Ex.github.io/blog/blog/2014/07/13/imasara</id>
+    <content type="html"><![CDATA[<p>やっとブログ書けるように整えた</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[ゲームの楽しみ]]></title>
-    <link href="http://unknown-ex.github.io/blog//blog/2014/03/04/gamenotanoshimi/"/>
+    <link href="http://unknown-Ex.github.io/blog/blog/2014/03/04/gamenotanoshimi/"/>
     <updated>2014-03-04T02:51:03+09:00</updated>
-    <id>http://unknown-ex.github.io/blog//blog/2014/03/04/gamenotanoshimi</id>
+    <id>http://unknown-Ex.github.io/blog/blog/2014/03/04/gamenotanoshimi</id>
     <content type="html"><![CDATA[<p>ソーシャルゲームやってません．騎士ドラは楽しい．</p>
 
 <!-- more -->
@@ -107,9 +116,9 @@
   
   <entry>
     <title type="html"><![CDATA[アイマスの映画と舞台挨拶in沖縄に行った話]]></title>
-    <link href="http://unknown-ex.github.io/blog//blog/2014/02/25/imas-movie/"/>
+    <link href="http://unknown-Ex.github.io/blog/blog/2014/02/25/imas-movie/"/>
     <updated>2014-02-25T17:02:03+09:00</updated>
-    <id>http://unknown-ex.github.io/blog//blog/2014/02/25/imas-movie</id>
+    <id>http://unknown-Ex.github.io/blog/blog/2014/02/25/imas-movie</id>
     <content type="html"><![CDATA[<p>アイマスの映画と舞台挨拶が沖縄に来て（すごい事です）沼倉さんに会いました．可愛かったです．</p>
 
 <p>だいたい終わり．</p>
@@ -138,9 +147,9 @@
   
   <entry>
     <title type="html"><![CDATA[朝ごはんとMP]]></title>
-    <link href="http://unknown-ex.github.io/blog//blog/2014/02/01/asagohan-to-mp/"/>
+    <link href="http://unknown-Ex.github.io/blog/blog/2014/02/01/asagohan-to-mp/"/>
     <updated>2014-02-01T20:45:00+09:00</updated>
-    <id>http://unknown-ex.github.io/blog//blog/2014/02/01/asagohan-to-mp</id>
+    <id>http://unknown-Ex.github.io/blog/blog/2014/02/01/asagohan-to-mp</id>
     <content type="html"><![CDATA[<p>また生活習慣の話．</p>
 
 <p>ちょっと前まで朝ごはんをまったく食べてなかった．昔はちゃんと食べてたのに．</p>
@@ -171,9 +180,9 @@
   
   <entry>
     <title type="html"><![CDATA[クッキーの話]]></title>
-    <link href="http://unknown-ex.github.io/blog//blog/2014/01/25/cookie/"/>
+    <link href="http://unknown-Ex.github.io/blog/blog/2014/01/25/cookie/"/>
     <updated>2014-01-25T23:08:49+09:00</updated>
-    <id>http://unknown-ex.github.io/blog//blog/2014/01/25/cookie</id>
+    <id>http://unknown-Ex.github.io/blog/blog/2014/01/25/cookie</id>
     <content type="html"><![CDATA[<p>クッキークリッカーの話ではありません．</p>
 
 <p>最近姉がDVDを借りてくるのでこたつに入って見てます．修論を書きながら．</p>
@@ -206,9 +215,9 @@
   
   <entry>
     <title type="html"><![CDATA[めっちゃやばかった話]]></title>
-    <link href="http://unknown-ex.github.io/blog//blog/2014/01/25/yabakatta/"/>
+    <link href="http://unknown-Ex.github.io/blog/blog/2014/01/25/yabakatta/"/>
     <updated>2014-01-25T23:08:08+09:00</updated>
-    <id>http://unknown-ex.github.io/blog//blog/2014/01/25/yabakatta</id>
+    <id>http://unknown-Ex.github.io/blog/blog/2014/01/25/yabakatta</id>
     <content type="html"><![CDATA[<p>昨日の話．</p>
 
 <p>修論も後半戦になって最後に1つ実験をしなくちゃいけなくてそのためにプログラムの修正をしてたらプログラムが全部吹き飛んで死ぬかと思った．</p>
@@ -284,9 +293,9 @@
   
   <entry>
     <title type="html"><![CDATA[最近の睡眠環境の話]]></title>
-    <link href="http://unknown-ex.github.io/blog//blog/2014/01/25/zui-jin/"/>
+    <link href="http://unknown-Ex.github.io/blog/blog/2014/01/25/zui-jin/"/>
     <updated>2014-01-25T00:51:18+09:00</updated>
-    <id>http://unknown-ex.github.io/blog//blog/2014/01/25/zui-jin</id>
+    <id>http://unknown-Ex.github.io/blog/blog/2014/01/25/zui-jin</id>
     <content type="html"><![CDATA[<p>もっと快適に寝たい．</p>
 
 <p>テレビで言ってたことをすぐ鵜呑みにするあんのーんです．</p>
@@ -346,9 +355,9 @@
   
   <entry>
     <title type="html"><![CDATA[おすすめのchrome拡張の話]]></title>
-    <link href="http://unknown-ex.github.io/blog//blog/2014/01/25/osusumefalsechromekuo-zhang/"/>
+    <link href="http://unknown-Ex.github.io/blog/blog/2014/01/25/osusumefalsechromekuo-zhang/"/>
     <updated>2014-01-25T00:37:17+09:00</updated>
-    <id>http://unknown-ex.github.io/blog//blog/2014/01/25/osusumefalsechromekuo-zhang</id>
+    <id>http://unknown-Ex.github.io/blog/blog/2014/01/25/osusumefalsechromekuo-zhang</id>
     <content type="html"><![CDATA[<p>おすすめのchrome拡張の話．</p>
 
 <p>そんなことよりGoogle+って便利ですよね．Google+．</p>
@@ -375,9 +384,9 @@
   
   <entry>
     <title type="html"><![CDATA[最近のテレビのつらみ]]></title>
-    <link href="http://unknown-ex.github.io/blog//blog/2014/01/18/zui-jin-falseterebifalseturami/"/>
+    <link href="http://unknown-Ex.github.io/blog/blog/2014/01/18/zui-jin-falseterebifalseturami/"/>
     <updated>2014-01-18T20:49:53+09:00</updated>
-    <id>http://unknown-ex.github.io/blog//blog/2014/01/18/zui-jin-falseterebifalseturami</id>
+    <id>http://unknown-Ex.github.io/blog/blog/2014/01/18/zui-jin-falseterebifalseturami</id>
     <content type="html"><![CDATA[<p>最近のテレビが辛いって話．</p>
 
 <p>親が観月ありささんの新しいドラマを見てた．夜間の高校で先生をするやつ．いじめがどうこう自殺がどうこうって暗い話をしてた．つらい．</p>
@@ -412,9 +421,9 @@
   
   <entry>
     <title type="html"><![CDATA[家さがし]]></title>
-    <link href="http://unknown-ex.github.io/blog//blog/2014/01/13/ie/"/>
+    <link href="http://unknown-Ex.github.io/blog/blog/2014/01/13/ie/"/>
     <updated>2014-01-13T21:30:18+09:00</updated>
-    <id>http://unknown-ex.github.io/blog//blog/2014/01/13/ie</id>
+    <id>http://unknown-Ex.github.io/blog/blog/2014/01/13/ie</id>
     <content type="html"><![CDATA[<p>来年から住む家を探してる．</p>
 
 <p>会社がポンギなので日比谷線沿いで．</p>
@@ -443,9 +452,9 @@
   
   <entry>
     <title type="html"><![CDATA[映画「エクスペリメント」を見た]]></title>
-    <link href="http://unknown-ex.github.io/blog//blog/2014/01/10/eiga-experiment/"/>
+    <link href="http://unknown-Ex.github.io/blog/blog/2014/01/10/eiga-experiment/"/>
     <updated>2014-01-10T19:29:40+09:00</updated>
-    <id>http://unknown-ex.github.io/blog//blog/2014/01/10/eiga-experiment</id>
+    <id>http://unknown-Ex.github.io/blog/blog/2014/01/10/eiga-experiment</id>
     <content type="html"><![CDATA[<p>暇だったので（暇じゃない）huluで映画エクスペリメントを見ました．こたつ最高．</p>
 
 <p><a href="http://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%9A%E3%83%AA%E3%83%A1%E3%83%B3%E3%83%88_(2010%E5%B9%B4%E3%81%AE%E6%98%A0%E7%94%BB)">参考</a></p>
@@ -478,9 +487,9 @@
   
   <entry>
     <title type="html"><![CDATA[2014年の目標]]></title>
-    <link href="http://unknown-ex.github.io/blog//blog/2014/01/09/2014-mokuhyo/"/>
+    <link href="http://unknown-Ex.github.io/blog/blog/2014/01/09/2014-mokuhyo/"/>
     <updated>2014-01-09T18:14:12+09:00</updated>
-    <id>http://unknown-ex.github.io/blog//blog/2014/01/09/2014-mokuhyo</id>
+    <id>http://unknown-Ex.github.io/blog/blog/2014/01/09/2014-mokuhyo</id>
     <content type="html"><![CDATA[<p>年も明けたし2014年の目標でも建てようって話．</p>
 
 <p>もう9日も経ったけど．</p>
@@ -532,9 +541,9 @@
   
   <entry>
     <title type="html"><![CDATA[2013年のまとめ]]></title>
-    <link href="http://unknown-ex.github.io/blog//blog/2014/01/01/2013-matome/"/>
+    <link href="http://unknown-Ex.github.io/blog/blog/2014/01/01/2013-matome/"/>
     <updated>2014-01-01T03:53:11+09:00</updated>
-    <id>http://unknown-ex.github.io/blog//blog/2014/01/01/2013-matome</id>
+    <id>http://unknown-Ex.github.io/blog/blog/2014/01/01/2013-matome</id>
     <content type="html"><![CDATA[<p>2013年が終わったって話。</p>
 
 <p>今年何やったっけ。</p>
@@ -583,9 +592,9 @@
   
   <entry>
     <title type="html"><![CDATA[WEJAAM DESIGNERとか]]></title>
-    <link href="http://unknown-ex.github.io/blog//blog/2013/12/22/wejaam/"/>
+    <link href="http://unknown-Ex.github.io/blog/blog/2013/12/22/wejaam/"/>
     <updated>2013-12-22T14:01:00+09:00</updated>
-    <id>http://unknown-ex.github.io/blog//blog/2013/12/22/wejaam</id>
+    <id>http://unknown-Ex.github.io/blog/blog/2013/12/22/wejaam</id>
     <content type="html"><![CDATA[<h4>WEJAAM DESIGNERのwindows,OSX版が出たらしいし無料って話．</h4>
 
 <p><a href="http://www.wejaam.com/#cvvt">WEJAAM</a></p>
@@ -605,9 +614,9 @@
   
   <entry>
     <title type="html"><![CDATA[テスト記事]]></title>
-    <link href="http://unknown-ex.github.io/blog//blog/2013/12/07/tesutoji-shi/"/>
+    <link href="http://unknown-Ex.github.io/blog/blog/2013/12/07/tesutoji-shi/"/>
     <updated>2013-12-07T21:53:36+09:00</updated>
-    <id>http://unknown-ex.github.io/blog//blog/2013/12/07/tesutoji-shi</id>
+    <id>http://unknown-Ex.github.io/blog/blog/2013/12/07/tesutoji-shi</id>
     <content type="html"><![CDATA[<p>テスト記事を書いてみる．
 書いた．</p>
 ]]></content>

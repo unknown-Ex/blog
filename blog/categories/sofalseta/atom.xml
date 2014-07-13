@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: その他 | あんのーんぶろぐ]]></title>
-  <link href="http://unknown-ex.github.io/blog//blog/categories/sofalseta/atom.xml" rel="self"/>
-  <link href="http://unknown-ex.github.io/blog//"/>
-  <updated>2014-07-13T19:23:06+09:00</updated>
-  <id>http://unknown-ex.github.io/blog//</id>
+  <link href="http://unknown-Ex.github.io/blog/blog/categories/sofalseta/atom.xml" rel="self"/>
+  <link href="http://unknown-Ex.github.io/blog/"/>
+  <updated>2014-07-13T20:05:53+09:00</updated>
+  <id>http://unknown-Ex.github.io/blog/</id>
   <author>
     <name><![CDATA[unknown_Ex]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[WEJAAM DESIGNERとか]]></title>
-    <link href="http://unknown-ex.github.io/blog//blog/2013/12/22/wejaam/"/>
+    <link href="http://unknown-Ex.github.io/blog/blog/2013/12/22/wejaam/"/>
     <updated>2013-12-22T14:01:00+09:00</updated>
-    <id>http://unknown-ex.github.io/blog//blog/2013/12/22/wejaam</id>
+    <id>http://unknown-Ex.github.io/blog/blog/2013/12/22/wejaam</id>
     <content type="html"><![CDATA[<h4>WEJAAM DESIGNERのwindows,OSX版が出たらしいし無料って話．</h4>
 
 <p><a href="http://www.wejaam.com/#cvvt">WEJAAM</a></p>

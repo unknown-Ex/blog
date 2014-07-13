@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: ゲーム | あんのーんぶろぐ]]></title>
-  <link href="http://unknown-ex.github.io/blog//blog/categories/gemu/atom.xml" rel="self"/>
-  <link href="http://unknown-ex.github.io/blog//"/>
-  <updated>2014-07-13T19:23:06+09:00</updated>
-  <id>http://unknown-ex.github.io/blog//</id>
+  <link href="http://unknown-Ex.github.io/blog/blog/categories/gemu/atom.xml" rel="self"/>
+  <link href="http://unknown-Ex.github.io/blog/"/>
+  <updated>2014-07-13T20:05:53+09:00</updated>
+  <id>http://unknown-Ex.github.io/blog/</id>
   <author>
     <name><![CDATA[unknown_Ex]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[ゲームの楽しみ]]></title>
-    <link href="http://unknown-ex.github.io/blog//blog/2014/03/04/gamenotanoshimi/"/>
+    <link href="http://unknown-Ex.github.io/blog/blog/2014/03/04/gamenotanoshimi/"/>
     <updated>2014-03-04T02:51:03+09:00</updated>
-    <id>http://unknown-ex.github.io/blog//blog/2014/03/04/gamenotanoshimi</id>
+    <id>http://unknown-Ex.github.io/blog/blog/2014/03/04/gamenotanoshimi</id>
     <content type="html"><![CDATA[<p>ソーシャルゲームやってません．騎士ドラは楽しい．</p>
 
 <!-- more -->

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Test | あんのーんぶろぐ]]></title>
-  <link href="http://unknown-ex.github.io/blog//blog/categories/test/atom.xml" rel="self"/>
-  <link href="http://unknown-ex.github.io/blog//"/>
-  <updated>2014-07-13T19:23:06+09:00</updated>
-  <id>http://unknown-ex.github.io/blog//</id>
+  <link href="http://unknown-Ex.github.io/blog/blog/categories/test/atom.xml" rel="self"/>
+  <link href="http://unknown-Ex.github.io/blog/"/>
+  <updated>2014-07-13T20:05:53+09:00</updated>
+  <id>http://unknown-Ex.github.io/blog/</id>
   <author>
     <name><![CDATA[unknown_Ex]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[テスト記事]]></title>
-    <link href="http://unknown-ex.github.io/blog//blog/2013/12/07/tesutoji-shi/"/>
+    <link href="http://unknown-Ex.github.io/blog/blog/2013/12/07/tesutoji-shi/"/>
     <updated>2013-12-07T21:53:36+09:00</updated>
-    <id>http://unknown-ex.github.io/blog//blog/2013/12/07/tesutoji-shi</id>
+    <id>http://unknown-Ex.github.io/blog/blog/2013/12/07/tesutoji-shi</id>
     <content type="html"><![CDATA[<p>テスト記事を書いてみる．
 書いた．</p>
 ]]></content>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: 料理 | あんのーんぶろぐ]]></title>
-  <link href="http://unknown-ex.github.io/blog//blog/categories/liao-li/atom.xml" rel="self"/>
-  <link href="http://unknown-ex.github.io/blog//"/>
-  <updated>2014-07-13T19:23:06+09:00</updated>
-  <id>http://unknown-ex.github.io/blog//</id>
+  <link href="http://unknown-Ex.github.io/blog/blog/categories/liao-li/atom.xml" rel="self"/>
+  <link href="http://unknown-Ex.github.io/blog/"/>
+  <updated>2014-07-13T20:05:53+09:00</updated>
+  <id>http://unknown-Ex.github.io/blog/</id>
   <author>
     <name><![CDATA[unknown_Ex]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[クッキーの話]]></title>
-    <link href="http://unknown-ex.github.io/blog//blog/2014/01/25/cookie/"/>
+    <link href="http://unknown-Ex.github.io/blog/blog/2014/01/25/cookie/"/>
     <updated>2014-01-25T23:08:49+09:00</updated>
-    <id>http://unknown-ex.github.io/blog//blog/2014/01/25/cookie</id>
+    <id>http://unknown-Ex.github.io/blog/blog/2014/01/25/cookie</id>
     <content type="html"><![CDATA[<p>クッキークリッカーの話ではありません．</p>
 
 <p>最近姉がDVDを借りてくるのでこたつに入って見てます．修論を書きながら．</p>
